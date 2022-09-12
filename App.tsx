@@ -12,6 +12,7 @@ import { Routes } from './src/Routes';
 import { Loading } from './src/components/Loading';
 import { THEME } from './src/theme/Theme';
 
+
 export default function App() {
   const [fontsLoad] = useFonts({Inter_400Regular, Inter_500Medium, Inter_600SemiBold, Inter_700Bold});
 

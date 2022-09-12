@@ -22,11 +22,17 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#131343"
+      },
+      "package": "com.daviss.HBO"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "53971691-16b2-4b41-9618-d01f351ee67c"
+      }
     }
   }
 }
